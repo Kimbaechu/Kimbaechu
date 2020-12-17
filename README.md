@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-- Email: bc6793@naver.com
+- Email : bc6793@naver.com
+- Blog : https://baechukim.tistory.com
+- 포트폴리오: https://www.notion.so/Portfolio-5622cef1cd5d4dd9af484a80cb04e752
 <!--
 **Kimbaechu/Kimbaechu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
